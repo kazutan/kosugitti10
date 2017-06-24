@@ -1,0 +1,10 @@
+name: "Kosugitti.R"
+navbar:
+  title: "Kosugitti.R"
+  left: 
+    - text: "about"
+      href: "about.html"
+output:
+  html_document:
+    css: site_style.css
+output_dir: "docs"
